@@ -9,8 +9,11 @@ I'm currently exploring and building projects related to **AI, Machine Learning,
 Fun Facts
 
 . ☕ Coffee lover
+
 . 🎬 Anime enjoyer
+
 . 🎧 Music & good vibes
+
 . 🚀 Always curious about something new
 
 
