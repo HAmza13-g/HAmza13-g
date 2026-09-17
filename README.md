@@ -8,13 +8,13 @@ I'm currently exploring and building projects related to **AI, Machine Learning,
 
 Fun Facts
 
-. ☕ Coffee lover
+.  Coffee lover
 
-. 🎬 Anime enjoyer
+.  Anime enjoyer
 
-. 🎧 Music & good vibes
+.  Music & good vibes
 
-. 🚀 Always curious about something new
+.  Always curious about something new
 
 
 
