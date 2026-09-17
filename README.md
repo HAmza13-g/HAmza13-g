@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**HAmza13-g/HAmza13-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hamza
 
-Here are some ideas to get you started:
+I'm an engineering student specializing in **Artificial Intelligence in Healthcare**, passionate about technology, programming, and developing intelligent solutions that can make a difference in the medical field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently exploring and building projects related to **AI, Machine Learning, Data Science, and Healthcare Technologies**. I'm interested in applying intelligent systems to real-world healthcare challenges.
+
+Fun Facts
+
+. ☕ Coffee lover
+. 🎬 Anime enjoyer
+. 🎧 Music & good vibes
+. 🚀 Always curious about something new
+
+
+
