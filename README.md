@@ -10,9 +10,7 @@ Fun Facts
 
 .  Coffee lover
 
-.  Anime enjoyer
-
-.  Music & good vibes
+.  Music
 
 .  Always curious about something new
 
